@@ -12,4 +12,4 @@ class TestClass:
         assert numero_par(4)
         assert numero_par(0) 
         assert numero_par(10)
-        assert numero_par(20)
+        assert numero_par(12)
