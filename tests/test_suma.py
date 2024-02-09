@@ -13,3 +13,4 @@ class TestClass:
         assert suma(-1,-2) == -3
         assert suma(-7,5) == -2
         assert suma(-7,9) == 2
+        assert suma(1,2) == 4
